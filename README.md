@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZorgonOmega (Miguel)
-- 👀 I’m interested in video games, card games, and anything tech related
+- 👋 Hi, I’m @ZorgonOmega (Miguel Corral)
+- 👀 I’m interested in automation, AI learning, learning new coding languages, video games, card games, and anything tech related
 - 🌱 I’m currently refreshing on python
-- 💞️ I’m looking to collaborate on anything worth while
+- 💞️ I’m looking to collaborate on anything that looks interesting and or helps daily activities
 - 📫 How to reach me: discord, phone or email
 
 <!---
